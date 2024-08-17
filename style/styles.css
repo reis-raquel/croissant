@@ -1,8 +1,29 @@
 .index-page{
-    background-color:blue ;
+    background-color:bisque ;
 }
 
 
-h3 { text-align: center;}
 
-a {text-align: center;}
+
+.photo-page{
+    background-color: lightsalmon;
+
+}
+
+
+.contact-page{background-color: aquamarine;}
+
+
+.croissant{
+    max-width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;}
+
+
+h1{ text-align: center;}
+h3 { text-align: center;}
+ 
+footer {text-align: center; }
+
+a {color: aliceblue;}
